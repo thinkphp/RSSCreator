@@ -5,26 +5,26 @@ RSSCreator
    used to publish frequently updated works - such as blog entries
    news headlines, audio and video - in a standardized format.
 
-   <?xml version="1.0" encoding="UTF-8" ?>
-   <rss version="2.0">
-   <channel>
-	<title>RSS Title</title>
-	<description>PHP Articles and jQuery stuff</description>
-	<link>http://thinkphp.ro</link>
-	<lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000</lastBuildDate>
-	<pubDate>Mon, 08 Sep 2010 16:45:00 +0000</pubDate>
-	<item>
+    <?xml version="1.0" encoding="UTF-8" ?>
+    <rss version="2.0">
+    <channel>
+       <title>RSS Title</title>
+	 <description>PHP Articles and jQuery stuff</description>
+  	 <link>http://thinkphp.ro</link>
+	 <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000</lastBuildDate>
+	 <pubDate>Mon, 08 Sep 2010 16:45:00 +0000</pubDate>
+	 <item>
 		<title></title>
 		<description></description>
 		<link></link>
 		<guid></guid>
 		<pubDate>Mon, 06 Sep 2010 12:45:00 +0000 </pubDate>
-	</item>
+       </item>
    </channel>
    </rss>
 
-Usage
-=====
+Sample
+======
 
    <?php
 
