@@ -26,7 +26,7 @@ RSSCreator
 Example
 =======
 
-     feed.php file.
+     //feed.php file.
 
      <?php
 
