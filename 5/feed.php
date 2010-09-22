@@ -6,7 +6,8 @@
  //include the RSS class
  include('rss.class.php');
 
- //instantiate the object ....create an object 
+ //instantiate the class RSS
+ //and therefore create an object of this type.
  $rss = new RSS();
 
  //call the method getFeed() that will return the actuan RSS 
