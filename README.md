@@ -26,7 +26,9 @@ RSSCreator
 Example
 =======
 
-   <?php
+     feed.php file.
+
+     <?php
 
      //include class dbconnect
      require_once('db.class.php');
@@ -45,4 +47,4 @@ Example
      //so, perform an echo on the return value to write the data
      echo$rss->getFeed();
 
-   ?>
+     ?>
