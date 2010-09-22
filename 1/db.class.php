@@ -60,7 +60,7 @@
 
          public function getResultsAsArray() {
 
-               $arr = array();$vec = array(1,2);
+               $arr = array();
  
                while($line = mysql_fetch_assoc($this->results)) {
                      $arr['title'][] = $line['subject'];
