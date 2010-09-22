@@ -14,11 +14,11 @@ RSSCreator
 	  <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000</lastBuildDate>
 	  <pubDate>Mon, 08 Sep 2010 16:45:00 +0000</pubDate>
 	  <item>
-		<title></title>
-		<description></description>
-		<link></link>
-		<guid></guid>
-		<pubDate>Mon, 06 Sep 2010 12:45:00 +0000 </pubDate>
+		<title>My title Item</title>
+		<description>My description Item</description>
+		<link>My link Item</link>
+		<guid>My quid Item</guid>
+		<pubDate>Mon, 06 Sep 2010 12:45:00 +0000</pubDate>
         </item>
       </channel>
       </rss>
